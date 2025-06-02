@@ -1,2 +1,2 @@
-# Pneumonia-detection-using-ML
+# Pneumonia-detection-using-DL
 This is a project to detect penumonia.
